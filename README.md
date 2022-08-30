@@ -11,8 +11,11 @@ El flow 1 representa el primer ejercicio a realizar con NodeRed. Este ejercicio 
 Para realizar este flow necesitas lo siguiente
 
   Ubuntu 20.04
+  
   NodeJS
+  
     NPM
+    
     NodeRed
 
 # Material de referencia
@@ -20,7 +23,9 @@ Para realizar este flow necesitas lo siguiente
 En los siguientes enlaces puedes encontrar cursos en la plataforma de edu.codigoiot.com que te permitirán realiar las configuraciones necesarias
 
   Instalación de Virutal Box y Ubuntu 20.04
+  
   Instalación de NodeRed
+  
   Introducción a NodeRed
 
 # Instrucciones
@@ -30,6 +35,7 @@ Requisitos previos
 Para que este flow funcione, debes cumplir con los siguientes requisitos previos
 
 1.Instalación de NodeJS. Se recomienda tener instalado NodeJS en alguna versión LTS. Al momento de creación de este documento, se usó la versión 16.17.0LTS. Esta instalación debe incluir las Build-Tools para hacer uso de NPM
+
 2.Instalación de NodeRed. La instalación se realiza por NPM. Al momento de la creación de este contenido, se usó la versión 3.0.2
 
 Instrucciones de preparación del entorno
@@ -37,8 +43,11 @@ Instrucciones de preparación del entorno
 Para ejecutar este flow, es necesario lo siguiente
 
 1.Arrancar NodeRed con el comando node-red
+
 2.Importar el flow desde el repositorio
+
 3.Hacer clic en el boton Deploy
+
 
 Instrucciones de operación
 
