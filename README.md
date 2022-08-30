@@ -1,10 +1,13 @@
 # flow1-NodeRed
+
 Este repositorio contiene el primer ejercicio de NodeRed para el curso Internet de las Cosas de Código IoT
 
 #Introducción
+
 El flow 1 representa el primer ejercicio a realizar con NodeRed. Este ejercicio consiste únicamente en conectar un nodo Inject con un nodo Debug y automatizarlo para que genere un TimeStamp cada 1 segundo. Esta acción permite demostrar el uso de la pestaña Debug.
 
 #Material Necesario
+
 Para realizar este flow necesitas lo siguiente
 
 Ubuntu 20.04
@@ -13,6 +16,7 @@ NPM
 NodeRed
 
 #Material de referencia
+
 En los siguientes enlaces puedes encontrar cursos en la plataforma de edu.codigoiot.com que te permitirán realiar las configuraciones necesarias
 
 Instalación de Virutal Box y Ubuntu 20.04
@@ -20,6 +24,7 @@ Instalación de NodeRed
 Introducción a NodeRed
 
 #Instrucciones
+
 Requisitos previos
 
 Para que este flow funcione, debes cumplir con los siguientes requisitos previos
@@ -40,14 +45,17 @@ Instrucciones de operación
 Para observar el resutlado de este flow, sólo es necesario abrir la pestaña Debug.
 
 #Resultados
+
 A continuación puede verse una vista previa del resultado de este flow.
 
 ![Captura de pantalla de 2022-08-30 10-31-04](https://user-images.githubusercontent.com/111372195/187478778-024a398b-04d1-4f1f-bf83-2c86d712b934.png)
 
 #Evidencias
+
 YouTube
 
 #Créditos
+
 Desarrollado por Esmeralda Itzel Martinez Peza
 
 itzel08.martinez10peza2001@gmail.com
